@@ -1,0 +1,12 @@
+﻿  Humidity.cpp
+  LiquidL.cpp
+  main.cpp
+C:\Users\Ксения\source\repos\Project3\main.cpp(81,13): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\Ксения\source\repos\Project3\main.cpp(96,14): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+  Object.cpp
+  takes.cpp
+  TheAirReg.cpp
+  TheWaterReg.cpp
+  TMatrix.cpp
+  Создание кода...
+  Project3.vcxproj -> C:\Users\Ксения\source\repos\Project3\Debug\Project3.exe
